@@ -1,4 +1,4 @@
 # coderhouse
-Repositório teste utilizado no curso Python Coderhouse
+Repositório dos exercícios do curso Python Coderhouse
 
 Primeiro curso de Python
